@@ -43,7 +43,7 @@ system("cls");
 
 uangkeluar= (n2*30+n3*30+n4*30+n5+n6+n7+n8+n9);
 uangsisa= n1-uangkeluar;
-uangboros= uangkeluar-1;
+uangboros= uangkeluar-n1;
 
 cout << "Guru Kas sudah mengumpulkan pengeluaran "<<name<<" dalam satu bulan nihhh. Ayo kita periksa bersama."<<endl;
 cout << "\nBerikut merupakan daftar pengeluaran "<<name<<" dalam satu bulan."<<endl;
